@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfEffectsViewBug.MAUI", "SfEffectsViewBug.MAUI\SfEffectsViewBug.MAUI.csproj", "{84D27929-CF9E-45F4-A42F-0A8C9F7BF48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D27929-CF9E-45F4-A42F-0A8C9F7BF48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D27929-CF9E-45F4-A42F-0A8C9F7BF48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D27929-CF9E-45F4-A42F-0A8C9F7BF48B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{84D27929-CF9E-45F4-A42F-0A8C9F7BF48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D27929-CF9E-45F4-A42F-0A8C9F7BF48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D27929-CF9E-45F4-A42F-0A8C9F7BF48B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5822869B-DC71-4342-A0B1-90533E26D8A1}
+	EndGlobalSection
+EndGlobal
